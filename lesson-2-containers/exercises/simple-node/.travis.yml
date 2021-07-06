@@ -1,0 +1,5 @@
+language: nodejs
+version:
+  node13
+build:
+  "docker build -t simple_node
